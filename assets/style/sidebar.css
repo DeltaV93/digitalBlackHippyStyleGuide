@@ -122,36 +122,40 @@ Sets up styles for colors
 }
 
 /* Makes colors */
-.color-red {
-    background: red;
+.primary-red {
+    background: #C5491F;
 }
 
-.color-orange {
-    background: orange;
+.primary-bgc {
+    background: #EADFC0;
 }
 
-.color-yellow {
-    background: yellow;
+.primary-yellow {
+    background: #EEAE29;
 }
 
-.color-green {
-    background: green;
+.primary-green {
+    background: #246464;
 }
 
-.color-blue {
-    background: blue;
+.primary-text {
+    background: #1E1E1E;
 }
 
-.color-purple {
-    background: indigo;
+.primary-purple {
+    background: #503C9A;
 }
 
-.color-black {
-    background: black;
+.primary-black {
+    background: #010000;
 }
 
-.color-gray {
-    background: gray;
+.primary-gray {
+    background: #D9D9D9;
+}
+
+.primary-brown {
+    background: #40190C;
 }
 
 /*
